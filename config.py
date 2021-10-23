@@ -1,7 +1,0 @@
-NUM_IMAGES_3D = 32
-TRAINING_BATCH_SIZE = 4
-TEST_BATCH_SIZE = 4
-IMAGE_SIZE = 256
-N_EPOCHS = 15
-do_valid = True
-n_workers = 4
