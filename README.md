@@ -13,7 +13,7 @@
 
 [Competition data](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data)
 
-[Solution Kaggle discussion](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/)
+[Solution Kaggle discussion](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/281347)
 
 [Inference notebook](https://www.kaggle.com/rinnqd/monai-simple-prediction-from-flair)
 
