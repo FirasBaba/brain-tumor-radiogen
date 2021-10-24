@@ -22,7 +22,7 @@
 To train the model using the competition data, please follow these steps:
  
 1. Clone this repo
-2. Install dependencies via `pip install - r requirements.txt`
+2. Install dependencies via `pip install -r requirements.txt`
 3. Download the competition data from [here](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/data) and place the downloaded files in the `input` folder. 
 4. Set the configuration file `working/config.py`. It is recommended to use the default values.
 
