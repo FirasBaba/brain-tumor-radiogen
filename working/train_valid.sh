@@ -7,3 +7,5 @@ python3 -m train --fold 3 --type T1wCE --model_name resnet10
 python3 -m train --fold 4 --type T1wCE --model_name resnet10
 
 python3 -m validation
+
+python3 -m predict --type T1wCE --model_name resnet10

@@ -86,10 +86,11 @@ class BrainRSNADataset(Dataset):
             ],
         )
 
-    
-        middle = self.img_indexes[case_id]
+        if self.is_train:
+            middle = self.img_indexes[case_id]
+        else:
+            middle = len(files) // 2
 
-        # # middle = len(files) // 2
         num_imgs2 = num_imgs // 2
         p1 = max(0, middle - num_imgs2)
         p2 = min(len(files), middle + num_imgs2)
